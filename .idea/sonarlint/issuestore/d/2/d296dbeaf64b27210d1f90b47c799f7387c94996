@@ -1,0 +1,12 @@
+
+^
+java:S6208"CMerge the previous cases into this one using comma-separated label.(ÞÙ¸Æúÿÿÿÿ
+Y
+java:S6208"CMerge the previous cases into this one using comma-separated label.(¡óÃ›
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»’´ðúÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Òå¶ô
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï×ŒÃ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(• Îž
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áÁ‹“ûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÈÐÏÀþÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ÌÃ¨Û
